@@ -1,0 +1,9 @@
+name: CheeseMoon
+version: 1.0
+author: BazifShah
+main: net.missingtoe.Main
+description: This plugin is made to make steak your best friend!
+
+commands:
+ cheesemoon:
+ 
